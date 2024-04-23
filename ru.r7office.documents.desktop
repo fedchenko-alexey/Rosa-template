@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Icon=ru.r7office.documents
+Exec=/usr/bin/ru.r7office.documents
+Name=R7 Documents
+Name[ru]=Р7 Документы
